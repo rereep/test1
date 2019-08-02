@@ -1,6 +1,11 @@
 zhananlihehe
+<<<<<<< HEAD
 zhabansadk
 adsadsa
 dsadsa
 xcsa
 csa
+=======
+henghengheng
+hahahah
+>>>>>>> branch 'master' of https://github.com/rereep/test1.git
